@@ -1,8 +1,12 @@
-style{
+body{
     background-color: aqua;
 
 }
-.paragraph{
+p{
+    background-color: chocolate;
+    position: relative;
+}
+#paragraph{
     color: brown;
 
 }
